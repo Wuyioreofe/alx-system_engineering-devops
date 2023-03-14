@@ -1,0 +1,3 @@
+9-duplicate_last-lines
+#!/bin/bash
+tail -1 iacta >> iacta
